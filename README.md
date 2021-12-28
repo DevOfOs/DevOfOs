@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DevOfOs
 - 👀 I’m interested in traveling, poetry, pets, plants, coffee and interesting, open-minded people.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on anything to earn experience.
 - 📫 How to reach me: @oswaldo.coradoo on Instagram or @PensadorActual_ on Twitter
 
 <!---
